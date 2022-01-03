@@ -1,2 +1,1 @@
-Hello
-howdy
+Python based sudoku program.
